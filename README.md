@@ -38,3 +38,6 @@ Add-Migration InitialMigration -StartupProject Store.Api -Project Store.Infrastr
 Update-Database
 ```
 
+### 3. Correr la API
+Abrir la solucion en Visual Studio y establecer Store.Api como proyecto de inicio y seleccionar Iniciar Depuración.
+
