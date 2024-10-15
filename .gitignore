@@ -1,0 +1,15 @@
+# Ignorar carpetas de migraciones
+Migrations/
+
+# Ignorar archivos de configuración de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Ignorar bin y obj
+bin/
+obj/
+
+# Ignorar archivos de paquetes
+packages/
